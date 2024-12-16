@@ -9,3 +9,6 @@ Switch1 2960-24TT
 PC-PT PC3 IP address: 210.3.14.2
 Server-PT Server1 IP address: 210.3.14.3
 Server-PT Server2 IP address: 210.3.14.4
+
+Update: PC-PT PC2 IP address:168.90.0.6 connected to Switch0, configured to use DHCP.
+PC-PT PC4 IP address: 210.3.14.5 connected to Switch1, configured to use DHCP.
